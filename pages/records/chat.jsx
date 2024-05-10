@@ -1,0 +1,13 @@
+// /pages/chat.jsx
+
+import ChatComponent from "@/components/ChatComponent";
+
+const ChatPage = () => {
+    return (
+        <div>
+            <ChatComponent />
+        </div>
+    )
+}
+
+export default ChatPage;
